@@ -98,15 +98,27 @@
       </a>
       <br/>
       <img src="https://api.iconify.design/lucide/wallet.svg?color=%238B7CF6" width="18" height="18" align="absmiddle" alt=""/>
-      <b>FinTrack</b> : gestion de finances personnelles (comptes, budgets, MGA, Mobile Money).
+      <b>FinTrack</b> : gestion de finances personnelles (comptes, budgets, MGA, Mobile Money).<br/>
+      <img src="https://img.shields.io/badge/En_cours-40%25-F59E0B?style=flat-square" alt="En cours de développement : 40 %"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Santatra-L/HITA-Archives-Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santatra-L&repo=HITA-Archives-Studio&theme=tokyonight&hide_border=true" alt="HITA Archives Studio"/>
+      <a href="https://github.com/Santatra-L/GeoTrano">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santatra-L&repo=GeoTrano&theme=tokyonight&hide_border=true" alt="GeoTrano"/>
       </a>
       <br/>
-      <img src="https://api.iconify.design/lucide/archive.svg?color=%238B7CF6" width="18" height="18" align="absmiddle" alt=""/>
-      <b>HITA Archives Studio</b> : traitement de scans d'archives (FastAPI + Vite).
+      <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238B7CF6" width="18" height="18" align="absmiddle" alt=""/>
+      <b>GeoTrano</b> : plateforme de recherche de logements locatifs à Madagascar, avec cartographie interactive et filtres avancés.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Santatra-L/NOM-DU-DEPOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santatra-L&repo=NOM-DU-DEPOT&theme=tokyonight&hide_border=true" alt="Analyseur de plans SQL"/>
+      </a>
+      <br/>
+      <img src="https://api.iconify.design/lucide/database-zap.svg?color=%238B7CF6" width="18" height="18" align="absmiddle" alt=""/>
+      <b>Analyseur de plans SQL</b> : serveur NestJS modulaire qui reçoit une requête SQL, exécute <code>EXPLAIN (ANALYZE, BUFFERS, FORMAT JSON)</code> sur PostgreSQL, puis renvoie un plan normalisé (arbre de nœuds, temps par nœud) avec des constats automatiques (Seq Scan inutile, mauvaise estimation, tri sur disque…).<br/>
+      <img src="https://img.shields.io/badge/En_cours-35%25-F59E0B?style=flat-square" alt="En cours de développement : 35 %"/>
     </td>
   </tr>
 </table>
@@ -138,7 +150,7 @@
 
 <br/><br/>
 
-<i>« . »</i>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%"/>
 
